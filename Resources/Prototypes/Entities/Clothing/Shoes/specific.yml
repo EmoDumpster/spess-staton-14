@@ -157,9 +157,9 @@
     - type: Tag
       tags: [] # ignore "WhitelistChameleon" tag
     - type: Sprite
-      sprite: Clothing/Shoes/Color/black.rsi
+      sprite: _spess/Clothing/Shoes/Color/black.rsi
     - type: Clothing
-      sprite: Clothing/Shoes/Color/black.rsi
+      sprite: _spess/Clothing/Shoes/Color/black.rsi
     - type: ChameleonClothing
       slot: [FEET]
       default: ClothingShoesColorBlack

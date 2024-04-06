@@ -5,7 +5,7 @@
   description: You wear this on your back and put items into it.
   components:
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/backpack.rsi
+    sprite: _spess/Clothing/Back/Backpacks/backpack.rsi
     state: icon
   - type: Item
     size: Huge
@@ -267,7 +267,7 @@
   - type: Sprite
     sprite: Clothing/Back/Backpacks/syndicate.rsi
   - type: ExplosionResistance
-    damageCoefficient: 0.1         
+    damageCoefficient: 0.1
 
 #Special
 - type: entity

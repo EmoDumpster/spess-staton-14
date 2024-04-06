@@ -5,9 +5,9 @@
   description: Stylish black shoes.
   components:
   - type: Sprite
-    sprite: Clothing/Shoes/Color/black.rsi
+    sprite: _spess/Clothing/Shoes/Color/black.rsi
   - type: Clothing
-    sprite: Clothing/Shoes/Color/black.rsi
+    sprite: _spess/Clothing/Shoes/Color/black.rsi
 
 - type: entity
   parent: ClothingShoesBaseButcherable

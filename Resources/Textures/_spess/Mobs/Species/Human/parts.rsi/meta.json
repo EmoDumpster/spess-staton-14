@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "license": "CC0-1.0",
+  "copyright": "Created by EmoGarbage404",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "full"
+    },
+    {
+      "name": "head_f"
+    },
+    {
+      "name": "head_m"
+    },
+    {
+      "name": "l_arm"
+    },
+    {
+      "name": "l_foot"
+    },
+    {
+      "name": "l_hand"
+    },
+    {
+      "name": "l_leg"
+    },
+    {
+      "name": "r_arm"
+    },
+    {
+      "name": "r_foot"
+    },
+    {
+      "name": "r_hand"
+    },
+    {
+      "name": "r_leg"
+    },
+    {
+      "name": "torso_f"
+    },
+    {
+      "name": "torso_m"
+    }
+  ]
+}
