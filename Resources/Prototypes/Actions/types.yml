@@ -54,7 +54,7 @@
     itemIconStyle: BigAction
     priority: -20
     icon:
-      sprite: Clothing/Back/Backpacks/backpack.rsi
+      sprite: _spess/Clothing/Back/Backpacks/backpack.rsi
       state: icon
     event: !type:OpenStorageImplantEvent
 

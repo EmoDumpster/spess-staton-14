@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Urist McHands The Dwarf
+  name: craig the manlet
   parent: BaseMobSpeciesOrganic
   id: BaseMobDwarf
   abstract: true
